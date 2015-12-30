@@ -1,5 +1,6 @@
-# One Month Rails
+# App numero uno! 
 
-This is the pinteresting sample application for One Month Rails
+This is a pinteresting ripp off, part of my 6 month twelve app challenge. 
+Wish me luck on the next eleven!
 
-by Lukas Hietkamp
+By Lukas Hietkamp
