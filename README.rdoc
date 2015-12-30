@@ -1,6 +1,6 @@
 # App numero uno! 
 
-This is a pinteresting ripp off, part of my 6 month twelve app challenge. 
+This is a pinteresting clone, part of my 6 month twelve app challenge. 
 Wish me luck on the next eleven!
 
 By Lukas Hietkamp
